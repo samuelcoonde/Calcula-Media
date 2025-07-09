@@ -1,0 +1,1 @@
+Este é um programa em console criado com o objetivo de praticar os conceitos básicos de programação. A ideia é começar com o essencial e aprimorar o projeto conforme novos conhecimentos forem sendo adquiridos.
